@@ -54,7 +54,7 @@ const Contact = () => (
         <div className="col-md-4 text-center">
           <h5 className="text-primary">Get in Touch</h5>
           <p className="mt-3">
-            <strong>Email:</strong> shritinandanwar@gmail.com
+            <strong>Email:</strong> shritinandanwar28@gmail.com
           </p>
           <p>
             <strong>Location:</strong> Nagpur, Maharashtra
