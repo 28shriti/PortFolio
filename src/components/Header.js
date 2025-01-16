@@ -54,7 +54,7 @@ const Header = () => (
           </li>
           <li className="nav-item ms-3">
               <a
-                href="/Docs/ShritiNandanwar_Resume.pdf"
+                href="/images/ShritiNandanwar_Resume.pdf"
                 download="ShritiNandanwar_Resume.pdf"
                 className="btn btn-primary text-white ms-3"
               >
