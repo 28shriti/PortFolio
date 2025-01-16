@@ -9,7 +9,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/Docs/Act.png"
+              src="/images/Act.png"
               className="card-img-top"
               alt="Project 1"
               style={{ maxWidth: "500px", maxHeight: "100px" }}
@@ -40,7 +40,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/Docs/Pratikruti.png"
+              src="/images/Pratikruti.png"
               className="card-img-top"
               alt="Project 2"
               style={{ maxWidth: "500px", maxHeight: "150px" }}
@@ -70,7 +70,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/Docs/FlappyBird.avif"
+              src="/images/FlappyBird.avif"
               className="card-img-top"
               alt="Project 3"
               style={{ maxWidth: "500px", maxHeight: "150px" }}
@@ -99,7 +99,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/Docs/TicTaeToe.png"
+              src="/images/TicTaeToe.png"
               className="card-img-top"
               alt="Project 4"
               style={{ maxWidth: "450px", maxHeight: "125px" }}
@@ -129,7 +129,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/Docs/profileManagement.webp"
+              src="/images/profileManagement.webp"
               className="card-img-top"
               alt="Project 5"
               style={{ maxWidth: "500px", maxHeight: "125px" }}
@@ -158,7 +158,7 @@ const Projects = () => (
           <div className="col-md-4 mb-4">
             <div className="card">
               <img
-                src="/Docs/crud.jpg"
+                src="/images/crud.jpg"
                 className="card-img-top"
                 alt="Project 6"
                 style={{ maxWidth: "500px", maxHeight: "125px" }}

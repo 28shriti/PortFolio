@@ -7,7 +7,7 @@ const About = () => (
         {/* Left Section - Image */}
         <div className="col-md-6 text-center mb-4 mb-md-0">
           <img
-            src="/Docs/Photo2.jpg"
+            src="/images/Photo2.jpg"
             alt="About Me"
             className=" img-fluid"
             style={{ maxWidth: '300px' }}
