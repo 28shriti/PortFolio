@@ -21,7 +21,7 @@ const Projects = () => (
               <p className="card-text">
                 Act-2025 (Phase-I) is a website for International Conference,
                 Organized by Department of Computer Science and Engineering &
-                Department of Computer Technology, Yeshwantrao Chavan College Of
+                Computer Technology, Yeshwantrao Chavan College Of
                 Engineering
               </p>
               <a

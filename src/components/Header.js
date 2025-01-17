@@ -4,8 +4,9 @@ const Header = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <div className="container">
       {/* Logo */}
-      <a className="navbar-brand" href="#">
-        Shriti Nandanwar
+      <img src="/Docs/shriti nandanwar.png" alt="Logo" />
+      <a className="navbar-brand" href="#header">
+         Shriti Nandanwar
       </a>
       {/* Toggler for mobile view */}
       <button
