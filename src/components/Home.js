@@ -41,7 +41,7 @@ const Home = () => (
       {/* Right Section */}
       <div className="text-center mt-5 mt-lg-0">
         <img
-          src="/images/Photo1.jpg"
+          src="/Docs/Photo1.jpg"
           alt="Profile"
           className="img-fluid"
           style={{ maxWidth: "500px" }}

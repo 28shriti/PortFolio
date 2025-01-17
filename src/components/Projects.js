@@ -9,7 +9,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/images/Act.png"
+              src="/Docs/Act.png"
               className="card-img-top"
               alt="Project 1"
               style={{ maxWidth: "500px", maxHeight: "100px" }}
@@ -40,7 +40,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/images/Pratikruti.png"
+              src="/Docs/Pratikruti.png"
               className="card-img-top"
               alt="Project 2"
               style={{ maxWidth: "500px", maxHeight: "150px" }}
@@ -70,7 +70,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/images/FlappyBird.avif"
+              src={"/Docs/FlappyBird.avif"}
               className="card-img-top"
               alt="Project 3"
               style={{ maxWidth: "500px", maxHeight: "150px" }}
@@ -99,7 +99,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/images/TicTaeToe.png"
+              src="/Docs/TicTaeToe.png"
               className="card-img-top"
               alt="Project 4"
               style={{ maxWidth: "450px", maxHeight: "125px" }}
@@ -129,7 +129,7 @@ const Projects = () => (
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="/images/profileManagement.webp"
+              src="/Docs/profileManagement.webp"
               className="card-img-top"
               alt="Project 5"
               style={{ maxWidth: "500px", maxHeight: "125px" }}
@@ -158,7 +158,7 @@ const Projects = () => (
           <div className="col-md-4 mb-4">
             <div className="card">
               <img
-                src="/images/crud.jpg"
+                src="/Docs/crud.jpg"
                 className="card-img-top"
                 alt="Project 6"
                 style={{ maxWidth: "500px", maxHeight: "125px" }}
